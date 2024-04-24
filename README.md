@@ -18,8 +18,9 @@ Please note that the code in this repository may not be perfectly clean as it wa
 
 ## Reports and Documentation
 
-    Proposal Video - (Vimeo link)
-    Final Report - (Drive link)
+[Proposal Presentation Video](https://vimeo.com/923505201)
+
+[Final Report](https://drive.google.com/file/d/1RbwSdI_-zvATe3OcklN12PDHGd7Zj7mo/view)
 
 ## Future Improvements
 
